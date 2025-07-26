@@ -1,4 +1,4 @@
-Let's solve the LeetCode problem "Sort Colors" (#75) step by step
+Let's solve the LeetCode problem "Sort Colors" (#75) 
 
 class Solution {
     public void sortColors(int[] nums) {
