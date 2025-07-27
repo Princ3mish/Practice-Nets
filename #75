@@ -29,3 +29,8 @@ class Solution {
         }
     }
 }
+Why use it here?
+
+The input is already given as an array.
+We can exploit the properties of arrays (random access, constant-time updates) to efficiently swap elements in-place.
+No need for extra complex data structures, which makes the solution space efficient.
