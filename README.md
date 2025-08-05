@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0056-merge-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Princ3mish/Practice-Nets/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
