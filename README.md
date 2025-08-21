@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0088-merge-sorted-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0026-remove-duplicates-from-sorted-array) |
