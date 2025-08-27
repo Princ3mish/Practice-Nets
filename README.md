@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0088-merge-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princ3mish/Practice-Nets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Princ3mish/Practice-Nets/tree/master/0141-linked-list-cycle) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
