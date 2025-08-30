@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0056-merge-intervals) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Princ3mish/Practice-Nets/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Princ3mish/Practice-Nets/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Princ3mish/Practice-Nets/tree/master/0141-linked-list-cycle) |
