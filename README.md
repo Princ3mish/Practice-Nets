@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
+| [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
+| [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
+| [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 ## Probability and Statistics
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 ## Divide and Conquer
 |  |
