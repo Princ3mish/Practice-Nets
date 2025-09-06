@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Princ3mish/Practice-Nets/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
