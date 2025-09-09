@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
 | ------- |
@@ -228,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
