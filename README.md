@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Princ3mish/Practice-Nets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Princ3mish/Practice-Nets/tree/master/0160-intersection-of-two-linked-lists) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Princ3mish/Practice-Nets/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0020-valid-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/Princ3mish/Practice-Nets/tree/master/3396-valid-word) |
 ## Stack
 |  |
