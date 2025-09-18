@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princ3mish/Practice-Nets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Princ3mish/Practice-Nets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Princ3mish/Practice-Nets/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Princ3mish/Practice-Nets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Princ3mish/Practice-Nets/tree/master/0160-intersection-of-two-linked-lists) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Princ3mish/Practice-Nets/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/Princ3mish/Practice-Nets/tree/master/3396-valid-word) |
 ## Stack
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Princ3mish/Practice-Nets/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -272,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
