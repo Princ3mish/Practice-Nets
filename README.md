@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Princ3mish/Practice-Nets/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Princ3mish/Practice-Nets/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
@@ -300,15 +301,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
 ## Trie
 |  |
