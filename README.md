@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Princ3mish/Practice-Nets/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Princ3mish/Practice-Nets/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Princ3mish/Practice-Nets/tree/master/0046-permutations) |
