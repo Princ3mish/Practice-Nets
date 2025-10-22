@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Princ3mish/Practice-Nets/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 ## Bit Manipulation
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
