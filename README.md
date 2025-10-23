@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
