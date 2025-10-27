@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Princ3mish/Practice-Nets/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 ## Queue
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Princ3mish/Practice-Nets/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Princ3mish/Practice-Nets/tree/master/0199-binary-tree-right-side-view) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 ## Binary Tree
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Princ3mish/Practice-Nets/tree/master/0199-binary-tree-right-side-view) |
 ## Trie
 |  |
 | ------- |
