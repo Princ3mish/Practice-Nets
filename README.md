@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
+## Counting
+|  |
+| ------- |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
