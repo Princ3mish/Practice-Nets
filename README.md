@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
+| [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
+| [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Princ3mish/Practice-Nets/tree/master/0232-implement-queue-using-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
+| [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## Ordered Set
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [4052-equal-score-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/4052-equal-score-substrings) |
+| [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## String Matching
 |  |
 | ------- |
