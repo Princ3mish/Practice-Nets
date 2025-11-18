@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
