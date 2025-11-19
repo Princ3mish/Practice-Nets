@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3881-minimize-maximum-component-cost](https://github.com/Princ3mish/Practice-Nets/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Princ3mish/Practice-Nets/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/Princ3mish/Practice-Nets/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-separate-squares-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3775-separate-squares-ii) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 | [3881-minimize-maximum-component-cost](https://github.com/Princ3mish/Practice-Nets/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Princ3mish/Practice-Nets/tree/master/3908-minimum-time-for-k-connected-components) |
 | [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## Bit Manipulation
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/Princ3mish/Practice-Nets/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Princ3mish/Practice-Nets/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Sliding Window
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/Princ3mish/Practice-Nets/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Princ3mish/Practice-Nets/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Prefix Sum
 |  |
 | ------- |
