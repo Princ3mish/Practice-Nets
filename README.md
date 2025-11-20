@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/Princ3mish/Practice-Nets/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Princ3mish/Practice-Nets/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/Princ3mish/Practice-Nets/tree/master/3396-valid-word) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Princ3mish/Practice-Nets/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3931-process-string-with-special-operations-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/Princ3mish/Practice-Nets/tree/master/3934-coupon-code-validator) |
 | [4052-equal-score-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/4052-equal-score-substrings) |
