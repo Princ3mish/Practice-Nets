@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Princ3mish/Practice-Nets/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Princ3mish/Practice-Nets/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Princ3mish/Practice-Nets/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Princ3mish/Practice-Nets/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Quickselect
 |  |
 | ------- |
