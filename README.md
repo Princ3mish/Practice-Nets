@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Princ3mish/Practice-Nets/tree/master/3934-coupon-code-validator) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Princ3mish/Practice-Nets/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [3981-jump-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/3981-jump-game-ix) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3981-jump-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/3981-jump-game-ix) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3881-minimize-maximum-component-cost](https://github.com/Princ3mish/Practice-Nets/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Princ3mish/Practice-Nets/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/Princ3mish/Practice-Nets/tree/master/3934-coupon-code-validator) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 | [3881-minimize-maximum-component-cost](https://github.com/Princ3mish/Practice-Nets/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Princ3mish/Practice-Nets/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## Bit Manipulation
 |  |
