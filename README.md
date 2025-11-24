@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/Princ3mish/Practice-Nets/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3723-sum-of-good-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/3723-sum-of-good-numbers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/Princ3mish/Practice-Nets/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3981-jump-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3982-maximum-walls-destroyed-by-robots) |
