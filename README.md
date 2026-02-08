@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
@@ -644,4 +646,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Princ3mish/Practice-Nets/tree/master/0133-clone-graph) |
+| [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
