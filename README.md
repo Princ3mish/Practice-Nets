@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
 ## Queue
