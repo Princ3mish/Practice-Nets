@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Princ3mish/Practice-Nets/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Princ3mish/Practice-Nets/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Princ3mish/Practice-Nets/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Princ3mish/Practice-Nets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Princ3mish/Practice-Nets/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Princ3mish/Practice-Nets/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Princ3mish/Practice-Nets/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
