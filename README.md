@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3396-valid-word](https://github.com/Princ3mish/Practice-Nets/tree/master/3396-valid-word) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Princ3mish/Practice-Nets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Princ3mish/Practice-Nets/tree/master/1642-water-bottles) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3336-water-bottles-ii) |
