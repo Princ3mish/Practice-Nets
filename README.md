@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Princ3mish/Practice-Nets/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
+| [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Princ3mish/Practice-Nets/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Princ3mish/Practice-Nets/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Princ3mish/Practice-Nets/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Princ3mish/Practice-Nets/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Princ3mish/Practice-Nets/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Princ3mish/Practice-Nets/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Princ3mish/Practice-Nets/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 ## Topological Sort
