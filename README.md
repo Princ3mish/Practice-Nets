@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 ## Probability and Statistics
