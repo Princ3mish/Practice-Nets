@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Princ3mish/Practice-Nets/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [4052-equal-score-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## String Matching
