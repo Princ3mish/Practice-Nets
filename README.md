@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
+| [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Princ3mish/Practice-Nets/tree/master/0802-find-eventual-safe-states) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Princ3mish/Practice-Nets/tree/master/0802-find-eventual-safe-states) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Princ3mish/Practice-Nets/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Princ3mish/Practice-Nets/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Princ3mish/Practice-Nets/tree/master/0802-find-eventual-safe-states) |
@@ -745,5 +749,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
