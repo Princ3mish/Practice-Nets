@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Princ3mish/Practice-Nets/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Princ3mish/Practice-Nets/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Princ3mish/Practice-Nets/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Princ3mish/Practice-Nets/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Princ3mish/Practice-Nets/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Princ3mish/Practice-Nets/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Princ3mish/Practice-Nets/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Princ3mish/Practice-Nets/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
