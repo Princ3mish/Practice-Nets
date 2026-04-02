@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Princ3mish/Practice-Nets/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Princ3mish/Practice-Nets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3723-sum-of-good-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/3723-sum-of-good-numbers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Princ3mish/Practice-Nets/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Princ3mish/Practice-Nets/tree/master/3259-maximum-energy-boost-from-two-drinks) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Princ3mish/Practice-Nets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3981-jump-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Princ3mish/Practice-Nets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Princ3mish/Practice-Nets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Sorting
