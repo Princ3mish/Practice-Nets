@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [0695-max-area-of-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Princ3mish/Practice-Nets/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
@@ -767,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Princ3mish/Practice-Nets/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Princ3mish/Practice-Nets/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Princ3mish/Practice-Nets/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
