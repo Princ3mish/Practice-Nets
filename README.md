@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Princ3mish/Practice-Nets/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Princ3mish/Practice-Nets/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3396-valid-word](https://github.com/Princ3mish/Practice-Nets/tree/master/3396-valid-word) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Princ3mish/Practice-Nets/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Princ3mish/Practice-Nets/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Princ3mish/Practice-Nets/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Princ3mish/Practice-Nets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
