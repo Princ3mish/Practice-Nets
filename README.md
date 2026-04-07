@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Princ3mish/Practice-Nets/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Princ3mish/Practice-Nets/tree/master/1642-water-bottles) |
+| [2069-walking-robot-simulation-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Princ3mish/Practice-Nets/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Princ3mish/Practice-Nets/tree/master/2751-robot-collisions) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Princ3mish/Practice-Nets/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Princ3mish/Practice-Nets/tree/master/0232-implement-queue-using-stacks) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/2069-walking-robot-simulation-ii) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 | [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## Ordered Set
