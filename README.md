@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Princ3mish/Practice-Nets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3723-sum-of-good-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/3723-sum-of-good-numbers) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
 | [3763-separate-squares-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3763-separate-squares-i) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
