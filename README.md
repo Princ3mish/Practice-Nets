@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Princ3mish/Practice-Nets/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Princ3mish/Practice-Nets/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3763-separate-squares-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3775-separate-squares-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Princ3mish/Practice-Nets/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/Princ3mish/Practice-Nets/tree/master/3830-find-closest-person) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Princ3mish/Practice-Nets/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
