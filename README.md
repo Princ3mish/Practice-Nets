@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Princ3mish/Practice-Nets/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Princ3mish/Practice-Nets/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Princ3mish/Practice-Nets/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Princ3mish/Practice-Nets/tree/master/0078-subsets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Princ3mish/Practice-Nets/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Princ3mish/Practice-Nets/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Princ3mish/Practice-Nets/tree/master/0120-triangle) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Princ3mish/Practice-Nets/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
