@@ -1,19 +1,24 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> result = new ArrayList<>();
-        backtrack(candidates , target , 0 , new ArrayList<>(),result);
+        findCombination(0,candidates,target,new ArrayList<>(),result);
         return result;
+        
     }
-    private void backtrack( int[]candidates , int target , int start , List<Integer> current , List<List<Integer>> result){
-        if( target == 0){
-            result.add(new ArrayList<>(current));
-            return;
+    private void findCombination(int index , int[] candidates , int target , List<Integer> current, List<List<Integer>> result){
+        if(index == candidates.length){
+            if(target == 0 ){
+                result.add(new ArrayList<>(current));
+            }
+            return ;
         }
-        if(target<0) return;
-        for( int i = start ; i<candidates.length;i++){
-            current.add(candidates[i]);
-            backtrack(candidates ,  target-candidates[i],i,current,result);
-            current.remove(current.size() - 1);
+        if(candidates[index] <= target){
+            current.add(candidates[index]);
+            findCombination(index , candidates , target-candidates[index],current, result);
+        current.remove(current.size()-1);
+
         }
+            findCombination(index + 1 , candidates , target ,current, result);
+
     }
 }
