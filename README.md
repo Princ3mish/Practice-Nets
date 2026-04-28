@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Princ3mish/Practice-Nets/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/0542-01-matrix) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Princ3mish/Practice-Nets/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Princ3mish/Practice-Nets/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Princ3mish/Practice-Nets/tree/master/1009-complement-of-base-10-integer) |
