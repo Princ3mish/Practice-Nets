@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Princ3mish/Practice-Nets/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Princ3mish/Practice-Nets/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Princ3mish/Practice-Nets/tree/master/0120-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Princ3mish/Practice-Nets/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Princ3mish/Practice-Nets/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Princ3mish/Practice-Nets/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Princ3mish/Practice-Nets/tree/master/0258-add-digits) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 ## Design
 |  |
