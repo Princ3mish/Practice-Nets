@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Princ3mish/Practice-Nets/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Princ3mish/Practice-Nets/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Princ3mish/Practice-Nets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Princ3mish/Practice-Nets/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Princ3mish/Practice-Nets/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Princ3mish/Practice-Nets/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Princ3mish/Practice-Nets/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
