@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Princ3mish/Practice-Nets/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Princ3mish/Practice-Nets/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Princ3mish/Practice-Nets/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Princ3mish/Practice-Nets/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
