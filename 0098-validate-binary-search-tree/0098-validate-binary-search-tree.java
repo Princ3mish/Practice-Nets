@@ -13,33 +13,18 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        if (root == null) return true;
-
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode current = root;
-        TreeNode prev = null;  
-
-        while (current != null || !stack.isEmpty()) {
-            
-            while (current != null) {
-                stack.push(current);
-                current = current.left;
-            }
-
-            current = stack.pop();
-
-            if (prev != null && current.val <= prev.val)
-                return false;
-
-            prev = current;
-
-            current = current.right;
+        return Validate(root , null , null );
+    }
+    private boolean Validate(TreeNode node , Integer low , Integer high){
+        if(node == null){
+            return true;
         }
-
-        return true;
+        if((low != null && node.val <= low  ) || (high != null && node.val >=high)){
+        return false;
+    }
+    return Validate(node.left, low , node.val)&&
+    Validate(node.right , node.val , high);
     }
 }
