@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Princ3mish/Practice-Nets/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Princ3mish/Practice-Nets/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Princ3mish/Practice-Nets/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Princ3mish/Practice-Nets/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/Princ3mish/Practice-Nets/tree/master/3827-implement-router) |
 ## Simulation
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/2833-furthest-point-from-origin) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Princ3mish/Practice-Nets/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [4055-longest-balanced-substring-i](https://github.com/Princ3mish/Practice-Nets/tree/master/4055-longest-balanced-substring-i) |
