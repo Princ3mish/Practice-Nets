@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Princ3mish/Practice-Nets/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Princ3mish/Practice-Nets/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Princ3mish/Practice-Nets/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
