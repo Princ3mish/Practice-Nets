@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
+| [0682-baseball-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Princ3mish/Practice-Nets/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0682-baseball-game) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2751-robot-collisions](https://github.com/Princ3mish/Practice-Nets/tree/master/2751-robot-collisions) |
 ## Linked List
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Princ3mish/Practice-Nets/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/Princ3mish/Practice-Nets/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Princ3mish/Practice-Nets/tree/master/1642-water-bottles) |
