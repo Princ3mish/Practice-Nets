@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Princ3mish/Practice-Nets/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Princ3mish/Practice-Nets/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Princ3mish/Practice-Nets/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Princ3mish/Practice-Nets/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0126-word-ladder-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Princ3mish/Practice-Nets/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/Princ3mish/Practice-Nets/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Princ3mish/Practice-Nets/tree/master/0127-word-ladder) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Princ3mish/Practice-Nets/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Princ3mish/Practice-Nets/tree/master/0424-longest-repeating-character-replacement) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
