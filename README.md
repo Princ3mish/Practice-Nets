@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [0682-baseball-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Princ3mish/Practice-Nets/tree/master/0733-flood-fill) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
