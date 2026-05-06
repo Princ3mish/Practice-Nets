@@ -4,14 +4,15 @@ class Solution {
         int n = boxGrid[0].length;
 
         for (int i = 0; i < m; i++) {
-            int emptySlot = n - 1;
-            for (int j = n - 1; j >= 0; j--) {
-                if (boxGrid[i][j] == '#') {
-                    boxGrid[i][j] = '.';
-                    boxGrid[i][emptySlot] = '#';
-                    emptySlot--;
-                } else if (boxGrid[i][j] == '*') {
-                    emptySlot = j - 1;
+            boolean moved = true;
+            while (moved) {
+                moved = false;
+                for (int j = n - 2; j >= 0; j--) {
+                    if (boxGrid[i][j] == '#' && boxGrid[i][j + 1] == '.') {
+                        boxGrid[i][j] = '.';
+                        boxGrid[i][j + 1] = '#';
+                        moved = true;
+                    }
                 }
             }
         }
