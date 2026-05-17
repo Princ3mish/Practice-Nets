@@ -1,9 +1,9 @@
 # Write your MySQL query statement below
 Select 
-emp.name As Employee 
-from
-Employee emp
-join
-Employee mng On emp.managerId = mng.id
-where
-emp.salary > mng.salary;
+emp.name as Employee
+from 
+Employee emp ,
+Employee mng
+where 
+emp.managerId = mng.id 
+And emp.salary > mng.salary;
