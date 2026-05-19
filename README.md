@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Princ3mish/Practice-Nets/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Princ3mish/Practice-Nets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Princ3mish/Practice-Nets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Princ3mish/Practice-Nets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Princ3mish/Practice-Nets/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Princ3mish/Practice-Nets/tree/master/0258-add-digits) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Princ3mish/Practice-Nets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Princ3mish/Practice-Nets/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Princ3mish/Practice-Nets/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Princ3mish/Practice-Nets/tree/master/0225-implement-stack-using-queues) |
