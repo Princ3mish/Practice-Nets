@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/Princ3mish/Practice-Nets/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/Princ3mish/Practice-Nets/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1345-jump-game-iv) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Princ3mish/Practice-Nets/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Princ3mish/Practice-Nets/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0783-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Princ3mish/Practice-Nets/tree/master/2384-root-equals-sum-of-children) |
@@ -808,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Princ3mish/Practice-Nets/tree/master/0841-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Princ3mish/Practice-Nets/tree/master/0922-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Princ3mish/Practice-Nets/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Princ3mish/Practice-Nets/tree/master/1192-critical-connections-in-a-network) |
@@ -849,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Princ3mish/Practice-Nets/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0783-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Princ3mish/Practice-Nets/tree/master/2384-root-equals-sum-of-children) |
