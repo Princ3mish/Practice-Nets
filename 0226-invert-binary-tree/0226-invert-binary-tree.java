@@ -13,22 +13,16 @@
  *     }
  * }
  */
- class Solution {
-
-    private void swap(TreeNode curr) {
-        if (curr == null) return;
-
-        
-        swap(curr.left);
-        swap(curr.right);
-
-        TreeNode temp = curr.left;
-        curr.left = curr.right;
-        curr.right = temp;
-    }
-
+class Solution {
     public TreeNode invertTree(TreeNode root) {
-        swap(root);
+        if(root == null){
+            return root;
+        }
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+        invertTree(root.left);
+        invertTree(root.right);
         return root;
     }
 }
