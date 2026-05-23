@@ -14,22 +14,17 @@
  * }
  */
 class Solution {
-    String preOrderTraversal(TreeNode node){
-        if(node == null){
-            return null;
-        }
-        StringBuilder sb = new StringBuilder("^");
-        sb.append(node.val);
-        sb.append(preOrderTraversal(node.left));
-        sb.append(preOrderTraversal(node.right));
-
-        return sb.toString();
-    }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        String fullTree =  preOrderTraversal(root);
-        String subTree = preOrderTraversal(subRoot);
-
-        return(fullTree.contains(subTree));
-        
+        if(subRoot == null)return true;
+        if(root == null)return false;
+        if(isSameTree(root,subRoot)){
+        return true;
+    }
+    return isSubtree(root.left , subRoot) || isSubtree(root.right , subRoot);
+}
+    private boolean isSameTree(TreeNode p , TreeNode q){
+        if(p == null && q == null)return true;
+        if(p == null || q == null || p.val != q.val)return false;
+        return isSameTree(p.left , q.left) && isSameTree(p.right,q.right);
     }
 }
