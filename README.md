@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Princ3mish/Practice-Nets/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0287-find-the-duplicate-number) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Princ3mish/Practice-Nets/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Princ3mish/Practice-Nets/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Princ3mish/Practice-Nets/tree/master/0424-longest-repeating-character-replacement) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/Princ3mish/Practice-Nets/tree/master/1871-jump-game-vii) |
