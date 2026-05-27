@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Princ3mish/Practice-Nets/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Princ3mish/Practice-Nets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0148-sort-list) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Princ3mish/Practice-Nets/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Princ3mish/Practice-Nets/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Princ3mish/Practice-Nets/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Princ3mish/Practice-Nets/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
