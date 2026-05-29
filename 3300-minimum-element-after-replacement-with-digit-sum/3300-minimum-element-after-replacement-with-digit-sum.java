@@ -1,17 +1,17 @@
 class Solution {
     public int minElement(int[] nums) {
         int minres = Integer.MAX_VALUE;
-        for(int num : nums){
+        for (int num : nums) {
             int res = 0;
-            while(num > 0){
-                res += num%10;
-                num /= 10;
+            char[] digits = String.valueOf(num).toCharArray();
+            for (char d : digits) {
+                res += Character.getNumericValue(d); 
             }
-            if(res < minres){
+            if (res < minres) {
                 minres = res;
             }
         }
-        return minres;
         
+        return minres;
     }
 }
