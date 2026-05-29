@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Princ3mish/Practice-Nets/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Princ3mish/Practice-Nets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Princ3mish/Practice-Nets/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3336-water-bottles-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Princ3mish/Practice-Nets/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
