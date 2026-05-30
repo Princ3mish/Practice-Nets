@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Princ3mish/Practice-Nets/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Princ3mish/Practice-Nets/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Princ3mish/Practice-Nets/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Princ3mish/Practice-Nets/tree/master/0994-rotting-oranges) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/Princ3mish/Practice-Nets/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Princ3mish/Practice-Nets/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Princ3mish/Practice-Nets/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
@@ -671,11 +674,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Princ3mish/Practice-Nets/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 ## Geometry
 |  |
 | ------- |
@@ -1090,8 +1095,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Princ3mish/Practice-Nets/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Princ3mish/Practice-Nets/tree/master/3161-block-placement-queries) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
