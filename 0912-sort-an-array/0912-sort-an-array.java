@@ -1,37 +1,40 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
+        if(nums == null || nums.length <= 1){
+            return nums;
+        }
+        mergesort(nums,0,nums.length-1);
         return nums;
     }
-    private void mergeSort(int[] nums, int left, int right) {
-        if (left >= right) return;
-
-        int mid = left + (right - left) / 2;
-        
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-
-        merge(nums, left, mid, right);
+    private void mergesort(int[] nums , int low , int high){
+        if(low >= high){
+            return ;
+        }
+        int mid = low + (high - low)/2;
+        mergesort(nums,low,mid);
+        mergesort(nums,mid+1 ,high);
+        merge(nums,low,mid,high);
     }
-    private void merge(int[] nums, int left, int mid, int right) {
-        int[] temp = new int[right - left + 1];
-        int i = left, j = mid + 1, k = 0;
-
-        while (i <= mid && j <= right) {
-            if (nums[i] <= nums[j]) {
-                temp[k++] = nums[i++];
-            } else {
-                temp[k++] = nums[j++];
+    private void merge(int[] nums , int low , int mid , int high){
+        int[] temp = new int[high - low + 1];
+        int left = low;
+        int right = mid+1;
+        int k = 0;
+        while(left <= mid && right <= high){
+            if(nums[left] <=  nums[right]){
+                temp[k++] = nums[left++];
+            }else{
+                temp[k++] = nums[right++];
             }
         }
-        while (i <= mid) {
-            temp[k++] = nums[i++];
+        while(left <= mid){
+            temp[k++] = nums[left++];
         }
-        while (j <= right) {
-            temp[k++] = nums[j++];
+        while(right <= high){
+            temp[k++] = nums[right++];
         }
-        for (i = 0; i < temp.length; i++) {
-            nums[left + i] = temp[i];
+        for(int i = 0 ; i < temp.length ;i++){
+            nums[low + i] = temp[i]; 
         }
     }
 }
