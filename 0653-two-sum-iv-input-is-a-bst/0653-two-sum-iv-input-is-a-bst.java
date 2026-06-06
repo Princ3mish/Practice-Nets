@@ -13,28 +13,20 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        if (root == null) return false;
-
-        Set<Integer> seen = new HashSet<>();
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
-
-            if (seen.contains(k - node.val)) {
-                return true;
-            }
-            seen.add(node.val);
-
-            if (node.left != null) queue.offer(node.left);
-            if (node.right != null) queue.offer(node.right);
-        }
-
-        return false;
+        HashSet<Integer> s = new HashSet<>();
+        return walk(root, k, s);
+    }
+    
+    private boolean walk(TreeNode node, int k, HashSet<Integer> s) {
+        if (node == null) return false;
+        
+        int rem = k - node.val;
+        if (s.contains(rem)) return true;
+        
+        s.add(node.val);
+        
+        return walk(node.left, k, s) || walk(node.right, k, s);
     }
 }
