@@ -15,16 +15,16 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> list = new ArrayList<>();
-        Inorder(root,list);
-        return list.get(k-1);
-        
+        int[] scnt = {0};
+        TreeNode slest = findkthsmallest(root,k,scnt);
+        return slest != null ? slest.val : -1;
     }
-    private void Inorder(TreeNode node , List<Integer> list){
-        if(node == null)return;
-        Inorder(node.left,list);
-        list.add(node.val);
-        Inorder(node.right,list);
-
+    private TreeNode findkthsmallest(TreeNode node , int k , int[] count){
+        if(node == null)return null;
+        TreeNode left = findkthsmallest(node.left , k , count);
+        if(left != null)return left;
+        count[0]++;
+        if(count[0] == k)return node;
+        return findkthsmallest(node.right, k ,count);
     }
 }
