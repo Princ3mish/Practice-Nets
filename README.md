@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3336-water-bottles-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Princ3mish/Practice-Nets/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Princ3mish/Practice-Nets/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Princ3mish/Practice-Nets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/Princ3mish/Practice-Nets/tree/master/2384-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Princ3mish/Practice-Nets/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Princ3mish/Practice-Nets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Princ3mish/Practice-Nets/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
