@@ -1,28 +1,23 @@
 class Solution {
-    private void dfs(int city , int [][]isConnected , boolean[]visited){
-        visited[city] = true ;
-        for(int i = 0 ; i < isConnected.length;i++){
-            if(isConnected[city][i] == 1 && !visited[i]){
-                dfs(i ,isConnected , visited );
-            }
-        }
-    }
     public int findCircleNum(int[][] isConnected) {
-        int n = isConnected.length;
-        boolean[] visited = new boolean[n];
-        // yeh humlog kiye hai visited cities ko track karne ke liye 
-
-        int provinces = 0 ;
-        // aur yeh hai connected components ko ginne ke liye 
-
-        for( int i = 0 ; i < n ; i++){//agar city visit nahi hua hai to woh naaya province hai 
+        int v = isConnected.length;
+        boolean[] visited = new boolean[v];
+        int provinces = 0;
+        for(int i = 0 ; i < v ; i++){
             if(!visited[i]){
                 provinces++;
-                dfs(i , isConnected , visited);
+                dfs(i,isConnected, visited);
             }
         }
         return provinces;
+    }
+    private void dfs(int node , int[][] isConnected , boolean[] visited){
+        visited[node] = true;
+        for(int neighbour = 0 ; neighbour < isConnected.length ; neighbour++){
+            if(isConnected[node][neighbour] == 1 && !visited[neighbour]){
 
-        
+            dfs(neighbour , isConnected , visited);
+            }
+        }
     }
 }
