@@ -1,6 +1,6 @@
 class Solution {
     public char[][] solve(char[][] board) {
-        if(board == null || board.length == 0)return board;
+        if(board == null || board.length == 0)return board ;
         int rows = board.length;
         int cols = board[0].length;
         for(int r = 0 ; r < rows ; r++){
