@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3396-valid-word](https://github.com/Princ3mish/Practice-Nets/tree/master/3396-valid-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3614-process-string-with-special-operations-ii) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Princ3mish/Practice-Nets/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3931-process-string-with-special-operations-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3931-process-string-with-special-operations-i) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Princ3mish/Practice-Nets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3336-water-bottles-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3614-process-string-with-special-operations-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3931-process-string-with-special-operations-i) |
 ## Tree
 |  |
