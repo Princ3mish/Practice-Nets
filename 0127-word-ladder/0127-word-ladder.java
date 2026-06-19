@@ -1,44 +1,40 @@
 class Solution {
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> wordSet =  new HashSet<>(wordList);
-
-        if(!wordSet.contains(endWord)){
-            return 0 ; 
+    class Pair{
+        String word;
+        int steps;
+        Pair(String word , int steps){
+            this.word = word ;
+            this.steps = steps;
         }
+    }
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Set<String> st = new HashSet<>(wordList);
+        if(!st.contains(endWord)){
+            return 0;
+        }
+        Queue<Pair> q = new LinkedList<>();
+        q.add(new Pair(beginWord , 1));
+        st.remove(beginWord);
 
-        Queue<String> queue = new LinkedList<>();
-
-        queue.offer(beginWord);
-
-        int level = 1;
-
-        while(!queue.isEmpty()){
-            int size = queue.size();
-
-            for(int i = 0 ; i < size ; i++){
-                String word = queue.poll();
-
-                if(word.equals(endWord)){
-                    return level;
-                }
-                char[] wordChars = word.toCharArray();
-
-                for( int j = 0 ; j < wordChars.length ; j++){
-                    char originalChar =  wordChars[j];
-
-                    for(char c = 'a' ; c <= 'z' ; c++){
-                        wordChars[j] = c;
-                        String newWord = new String(wordChars);
-
-                        if(wordSet.contains(newWord)){
-                            queue.offer(newWord);
-                            wordSet.remove(newWord);
-                        }
-                    }
-                    wordChars[j] = originalChar;
-                }
+        while(!q.isEmpty()){
+            Pair curr = q.poll();
+            String word =  curr.word ;
+            int steps = curr.steps;
+            if(word.equals(endWord)){
+                return steps;
             }
-            level++;
+            for(int i = 0 ; i < word.length() ; i++){
+                char[] wordArray = word.toCharArray();
+                for(char ch = 'a' ; ch <= 'z' ; ch++){
+                    wordArray[i] = ch;
+                    String newWord = new String(wordArray);
+                    if(st.contains(newWord)){
+                        st.remove(newWord);
+                        q.add(new Pair(newWord , steps + 1));
+                    }
+                }
+
+            }
         }
         return 0;
         
