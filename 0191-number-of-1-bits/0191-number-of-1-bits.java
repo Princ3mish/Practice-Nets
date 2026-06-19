@@ -1,13 +1,11 @@
 class Solution {
     public int hammingWeight(int n) {
-        String str = Integer.toBinaryString(n);
-        char[] count = str.toCharArray();
-        int cnt = 0;
-        for(int i = 0 ; i < count.length ; i++){
-            if(count[i] == '1'){
-                cnt++;
-            }
+        int count = 0;
+        while(n!=0){
+            count += (n & 1);
+            n >>>= 1;
         }
-        return cnt;
+        return count;
+        
     }
 }
