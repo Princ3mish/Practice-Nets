@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Princ3mish/Practice-Nets/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/Princ3mish/Practice-Nets/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1345-jump-game-iv) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Princ3mish/Practice-Nets/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Princ3mish/Practice-Nets/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Princ3mish/Practice-Nets/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Princ3mish/Practice-Nets/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Princ3mish/Practice-Nets/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Princ3mish/Practice-Nets/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/2833-furthest-point-from-origin) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Princ3mish/Practice-Nets/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [4055-longest-balanced-substring-i](https://github.com/Princ3mish/Practice-Nets/tree/master/4055-longest-balanced-substring-i) |
