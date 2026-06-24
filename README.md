@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Princ3mish/Practice-Nets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Princ3mish/Practice-Nets/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3336-water-bottles-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Princ3mish/Practice-Nets/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Princ3mish/Practice-Nets/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
