@@ -1,49 +1,37 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> graph = new ArrayList<>();
-
-        for( int i = 0 ; i < numCourses ; i++){
-            graph.add(new ArrayList<>());
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
         }
-        int[] indegree = new int[numCourses];
-
-        for( int[] pre : prerequisites ){
-            int course = pre[0];
-            int prereq = pre[1];
-
-            graph.get(prereq).add(course);
-
-            indegree[course]++;
-
-
+        int[] in = new int[numCourses];
+        for (int[] edge : prerequisites) {
+            int u = edge[1]; 
+            int v = edge[0]; 
+            adj.get(u).add(v);
+            in[v]++;
         }
-        Queue<Integer> queue = new LinkedList<>();
-
-        for( int i = 0 ; i < numCourses ;i++){
-            if(indegree[i] == 0){
-                queue.offer(i);
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (in[i] == 0) {
+                q.add(i);
+            }
         }
+        int[] topo = new int[numCourses];
+        int index = 0;
+        
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            topo[index++] = node;
             
-        }
-        int[] order = new int[numCourses];
-
-        int index = 0 ; 
-
-        while(!queue.isEmpty()){
-            int course = queue.poll();
-            order[index++]  = course;
-
-            for( int neighbour : graph.get(course)){
-                indegree[neighbour]--;
-
-                if(indegree[neighbour] == 0){
-                    queue.offer(neighbour);
+            for (int neighbor : adj.get(node)) {
+                in[neighbor]--;
+                if (in[neighbor] == 0) {
+                    q.add(neighbor);
                 }
             }
         }
-        if(index == numCourses){
-            return order;
-        }
+        if (index == numCourses) return topo;
         return new int[0];
     }
 }
