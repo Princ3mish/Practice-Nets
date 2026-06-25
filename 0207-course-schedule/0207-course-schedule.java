@@ -1,45 +1,33 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> graph = new ArrayList<>();
-
-        for ( int i = 0 ; i < numCourses ; i++){
-            graph.add(new ArrayList<>());
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0 ; i < numCourses ; i++){
+            adj.add(new ArrayList<>());
         }
-
-        for( int[] p : prerequisites){
-
-            int course = p[0];
-            int prereq = p[1];
-
-            graph.get(prereq).add(course);
+        int[] in = new int[numCourses];
+        for(int[] edge : prerequisites){
+            int v =  edge[1];
+            int u = edge[0];
+            adj.get(v).add(u);
+            in[u]++;
         }
-
-        int state[] =  new int[numCourses];
-
-        for( int i = 0 ; i < numCourses ; i++){
-            if(dfs(i,graph,state)){
-                return false;
+        Queue<Integer> q = new LinkedList<>();
+        for(int i = 0 ; i < numCourses ; i++){
+            if(in[i] == 0){
+                q.add(i);
             }
         }
-            return true;
-
-        
-    }
-    private boolean dfs( int node , List<List<Integer>> graph , int[] state){
-
-        if (state[node] == 1 ) return true;
-
-        if (state[node] == 2) return false;
-
-        state[node] = 1;
-
-        for(int next : graph.get(node)){
-            if(dfs(next,graph,state)){
-                return true;
+        int cnt = 0;
+        while(!q.isEmpty()){
+            int node = q.poll();
+            cnt++;
+            for(int n : adj.get(node)){
+                in[n]--;
+                if(in[n] == 0){
+                    q.add(n);
+                }
             }
         }
-        state[node] = 2;
-
-        return false;
+        return cnt == numCourses;
     }
 }
