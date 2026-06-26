@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3723-sum-of-good-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/3723-sum-of-good-numbers) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/3227-find-missing-and-repeated-values) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Princ3mish/Practice-Nets/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -724,11 +726,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Princ3mish/Practice-Nets/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Princ3mish/Practice-Nets/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Princ3mish/Practice-Nets/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4052-equal-score-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/Princ3mish/Practice-Nets/tree/master/4059-design-exam-scores-tracker) |
 ## String Matching
@@ -1069,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/Princ3mish/Practice-Nets/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3775-separate-squares-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3775-separate-squares-ii) |
 ## Line Sweep
 |  |
