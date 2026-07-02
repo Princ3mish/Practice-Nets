@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Princ3mish/Practice-Nets/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Princ3mish/Practice-Nets/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Princ3mish/Practice-Nets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/Princ3mish/Practice-Nets/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Princ3mish/Practice-Nets/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Princ3mish/Practice-Nets/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Princ3mish/Practice-Nets/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Princ3mish/Practice-Nets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Princ3mish/Practice-Nets/tree/master/2287-rearrange-characters-to-make-target-string) |
