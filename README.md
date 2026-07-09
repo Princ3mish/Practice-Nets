@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Princ3mish/Practice-Nets/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0796-rotate-string) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Princ3mish/Practice-Nets/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Princ3mish/Practice-Nets/tree/master/0853-car-fleet) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Princ3mish/Practice-Nets/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/0630-course-schedule-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0860-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
