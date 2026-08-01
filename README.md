@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Princ3mish/Practice-Nets/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Princ3mish/Practice-Nets/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0540-single-element-in-a-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Princ3mish/Practice-Nets/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0678-valid-parenthesis-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Princ3mish/Practice-Nets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0509-fibonacci-number) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Princ3mish/Practice-Nets/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Princ3mish/Practice-Nets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Princ3mish/Practice-Nets/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Princ3mish/Practice-Nets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
@@ -1297,4 +1301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Princ3mish/Practice-Nets/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
