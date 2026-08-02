@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Princ3mish/Practice-Nets/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Princ3mish/Practice-Nets/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Princ3mish/Practice-Nets/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/0912-sort-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Princ3mish/Practice-Nets/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Princ3mish/Practice-Nets/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Princ3mish/Practice-Nets/tree/master/0509-fibonacci-number) |
 | [0826-soup-servings](https://github.com/Princ3mish/Practice-Nets/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Princ3mish/Practice-Nets/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1305,4 +1308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
