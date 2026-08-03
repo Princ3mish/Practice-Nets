@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Princ3mish/Practice-Nets/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Princ3mish/Practice-Nets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Princ3mish/Practice-Nets/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Princ3mish/Practice-Nets/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Princ3mish/Practice-Nets/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/Princ3mish/Practice-Nets/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Princ3mish/Practice-Nets/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
+| [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Princ3mish/Practice-Nets/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
@@ -1309,4 +1312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
