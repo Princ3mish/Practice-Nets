@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Princ3mish/Practice-Nets/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Princ3mish/Practice-Nets/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1306-jump-game-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Princ3mish/Practice-Nets/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Princ3mish/Practice-Nets/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Princ3mish/Practice-Nets/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Princ3mish/Practice-Nets/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Princ3mish/Practice-Nets/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Princ3mish/Practice-Nets/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Princ3mish/Practice-Nets/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Princ3mish/Practice-Nets/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Princ3mish/Practice-Nets/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Princ3mish/Practice-Nets/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Princ3mish/Practice-Nets/tree/master/2574-left-and-right-sum-differences) |
@@ -1316,5 +1320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Princ3mish/Practice-Nets/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
