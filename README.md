@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Princ3mish/Practice-Nets/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Princ3mish/Practice-Nets/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/Princ3mish/Practice-Nets/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Princ3mish/Practice-Nets/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Princ3mish/Practice-Nets/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
 | [1642-water-bottles](https://github.com/Princ3mish/Practice-Nets/tree/master/1642-water-bottles) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Princ3mish/Practice-Nets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1322,12 +1324,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
