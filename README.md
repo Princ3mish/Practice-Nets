@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Princ3mish/Practice-Nets/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Princ3mish/Practice-Nets/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Princ3mish/Practice-Nets/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Princ3mish/Practice-Nets/tree/master/2126-destroying-asteroids) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Princ3mish/Practice-Nets/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
 | [1642-water-bottles](https://github.com/Princ3mish/Practice-Nets/tree/master/1642-water-bottles) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Princ3mish/Practice-Nets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Princ3mish/Practice-Nets/tree/master/2965-find-missing-and-repeated-values) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Princ3mish/Practice-Nets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1762-furthest-building-you-can-reach](https://github.com/Princ3mish/Practice-Nets/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Princ3mish/Practice-Nets/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Princ3mish/Practice-Nets/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Princ3mish/Practice-Nets/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Princ3mish/Practice-Nets/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Princ3mish/Practice-Nets/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Princ3mish/Practice-Nets/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Princ3mish/Practice-Nets/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/Princ3mish/Practice-Nets/tree/master/2833-furthest-point-from-origin) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Princ3mish/Practice-Nets/tree/master/3979-partition-array-into-k-distinct-groups) |
@@ -1328,20 +1332,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Princ3mish/Practice-Nets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Princ3mish/Practice-Nets/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Princ3mish/Practice-Nets/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
