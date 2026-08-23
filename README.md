@@ -1372,4 +1372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Princ3mish/Practice-Nets/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Princ3mish/Practice-Nets/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
