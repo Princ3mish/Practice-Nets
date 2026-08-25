@@ -15,7 +15,7 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root == null)return null;
+        if(root == null) return null;
         if(root.val == key){
             return stitch(root);
         }
@@ -28,7 +28,7 @@ class Solution {
                 }else if(curr.left != null){
                     curr = curr.left;
                 }else{
-                     break;
+                    break;
                 }
             }else{
                 if(curr.right != null && curr.right.val == key){
@@ -42,16 +42,16 @@ class Solution {
             }
         }
         return root;
+
+        }
+    public TreeNode stitch(TreeNode target){
+        if(target.left == null) return target.right;
+        if(target.right == null) return target.left;
+        TreeNode leftmost = target.right;
+        while(leftmost.left != null){
+            leftmost = leftmost.left;
+        }
+        leftmost.left = target.left;
+        return target.right;
     }
-    public TreeNode stitch(TreeNode target) {
-    if (target.left == null) return target.right;
-    if (target.right == null) return target.left;
-    
-    TreeNode leftmost = target.right;
-    while (leftmost.left != null) {
-        leftmost = leftmost.left;
-    }
-    leftmost.left = target.left;
-    return target.right;
-}
 }
