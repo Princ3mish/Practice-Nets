@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3863-power-grid-maintenance](https://github.com/Princ3mish/Practice-Nets/tree/master/3863-power-grid-maintenance) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Princ3mish/Practice-Nets/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3934-coupon-code-validator](https://github.com/Princ3mish/Practice-Nets/tree/master/3934-coupon-code-validator) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/Princ3mish/Practice-Nets/tree/master/3979-partition-array-into-k-distinct-groups) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/Princ3mish/Practice-Nets/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Princ3mish/Practice-Nets/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Princ3mish/Practice-Nets/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Princ3mish/Practice-Nets/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Matrix
