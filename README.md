@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Princ3mish/Practice-Nets/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Princ3mish/Practice-Nets/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Princ3mish/Practice-Nets/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Princ3mish/Practice-Nets/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Princ3mish/Practice-Nets/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Princ3mish/Practice-Nets/tree/master/0079-word-search) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Princ3mish/Practice-Nets/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Princ3mish/Practice-Nets/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Princ3mish/Practice-Nets/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Princ3mish/Practice-Nets/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Princ3mish/Practice-Nets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Princ3mish/Practice-Nets/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Princ3mish/Practice-Nets/tree/master/0150-evaluate-reverse-polish-notation) |
