@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Princ3mish/Practice-Nets/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Princ3mish/Practice-Nets/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Princ3mish/Practice-Nets/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Princ3mish/Practice-Nets/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Princ3mish/Practice-Nets/tree/master/3995-gcd-of-odd-and-even-sums) |
