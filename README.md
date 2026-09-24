@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Princ3mish/Practice-Nets/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Princ3mish/Practice-Nets/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Princ3mish/Practice-Nets/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Princ3mish/Practice-Nets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Princ3mish/Practice-Nets/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Princ3mish/Practice-Nets/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Princ3mish/Practice-Nets/tree/master/1675-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Princ3mish/Practice-Nets/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Princ3mish/Practice-Nets/tree/master/2540-minimum-common-value) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Princ3mish/Practice-Nets/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Princ3mish/Practice-Nets/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2023-design-movie-rental-system](https://github.com/Princ3mish/Practice-Nets/tree/master/2023-design-movie-rental-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Princ3mish/Practice-Nets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Princ3mish/Practice-Nets/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Princ3mish/Practice-Nets/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Princ3mish/Practice-Nets/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Princ3mish/Practice-Nets/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Princ3mish/Practice-Nets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1214,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Princ3mish/Practice-Nets/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Princ3mish/Practice-Nets/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Princ3mish/Practice-Nets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Princ3mish/Practice-Nets/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Princ3mish/Practice-Nets/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Princ3mish/Practice-Nets/tree/master/2574-left-and-right-sum-differences) |
