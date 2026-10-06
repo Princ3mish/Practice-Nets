@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Princ3mish/Practice-Nets/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Princ3mish/Practice-Nets/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Princ3mish/Practice-Nets/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Princ3mish/Practice-Nets/tree/master/0981-time-based-key-value-store) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Princ3mish/Practice-Nets/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Princ3mish/Practice-Nets/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Princ3mish/Practice-Nets/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Princ3mish/Practice-Nets/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Princ3mish/Practice-Nets/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Princ3mish/Practice-Nets/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1475,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Princ3mish/Practice-Nets/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Princ3mish/Practice-Nets/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
