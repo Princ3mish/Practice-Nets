@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Princ3mish/Practice-Nets/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Princ3mish/Practice-Nets/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princ3mish/Practice-Nets/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Princ3mish/Practice-Nets/tree/master/0412-fizz-buzz) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Princ3mish/Practice-Nets/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Princ3mish/Practice-Nets/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Monotonic Stack
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Princ3mish/Practice-Nets/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Princ3mish/Practice-Nets/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Princ3mish/Practice-Nets/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Princ3mish/Practice-Nets/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Princ3mish/Practice-Nets/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Princ3mish/Practice-Nets/tree/master/0407-trapping-rain-water-ii) |
